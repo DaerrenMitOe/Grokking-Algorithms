@@ -4,6 +4,7 @@ steps it would take?
 
 log2 128 = 7
 
+
 1.2 Suppose you double the size of the list. What’s the maximum 
 number of steps now?
 
