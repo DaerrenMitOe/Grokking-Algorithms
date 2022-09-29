@@ -10,4 +10,4 @@ def quicksort(array):
 
 
 if __name__ == "__main__":
-    print([10, 5, 2, 3])
+    print(quicksort([10, 5, 2, 3]))
