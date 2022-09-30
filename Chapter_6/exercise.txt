@@ -1,0 +1,10 @@
+6.1 Find the length of the shortest path 
+from start to finish.
+
+-2
+
+
+6.2 Find the length of the shortest path 
+from “cab” to “bat”.
+
+-2
